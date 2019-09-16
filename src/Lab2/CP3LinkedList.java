@@ -1,3 +1,5 @@
+package Lab2;
+
 import java.util.NoSuchElementException;
 //singly linked list with first reference only 
 

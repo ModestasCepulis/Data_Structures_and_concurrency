@@ -1,7 +1,7 @@
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+package Lab2;
 
-import javax.lang.model.element.Element;
+import Lab2.CP3LinkedList;
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
